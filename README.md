@@ -3,14 +3,14 @@ Data and code repository for root, shoot, and chlorophyll fluorescence phenotypi
 
 * Experiment 1 - Root System
 
-Figure 3 
+Figure 2 
   Root kinetics
   Shoot kinetics
 
-Figure 4
+Figure 3
   Destructive analyses
 
-Figure 5
+Figure 4
   PCA
 
 Figure S4
@@ -18,16 +18,16 @@ Figure S4
 
 * Experiment 2 - Compact System
 
-Figure 6
+Figure 5
   Fluorescence kinetics
 
-Figure 7
+Figure 6
   Shoot kinetics
 
-Figure 8
+Figure 7
   Destructive analyses
 
-Figure 9
+Figure 8
   PCA
 
 Figure S6
